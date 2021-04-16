@@ -30,3 +30,4 @@ void loop()
     }
     delay(70);   
 }
+[code.docx](https://github.com/SOORAMNIKITHA/voice-commands-based-LED-scrooling-display/files/6326871/code.docx)
